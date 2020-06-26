@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NightRain-blog.github.io</id>
     <title>Night rain</title>
-    <updated>2020-06-09T11:07:57.990Z</updated>
+    <updated>2020-06-26T06:54:04.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NightRain-blog.github.io"/>
     <link rel="self" href="https://NightRain-blog.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://NightRain-blog.github.io/images/avatar.png</logo>
     <icon>https://NightRain-blog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Night rain</rights>
+    <entry>
+        <title type="html"><![CDATA[视频剪辑]]></title>
+        <id>https://NightRain-blog.github.io/post/shi-pin-jian-ji/</id>
+        <link href="https://NightRain-blog.github.io/post/shi-pin-jian-ji/">
+        </link>
+        <updated>2020-06-26T05:38:14.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D MAX 第一天]]></title>
+        <id>https://NightRain-blog.github.io/post/3d-max-di-yi-tian/</id>
+        <link href="https://NightRain-blog.github.io/post/3d-max-di-yi-tian/">
+        </link>
+        <updated>2020-06-10T05:09:30.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的一天]]></title>
         <id>https://NightRain-blog.github.io/post/xin-de-yi-tian/</id>
